@@ -1,0 +1,15 @@
+{
+    "name": "aidiopostexport/aidiopostexport",
+    "description": "WordPress plugin to export posts",
+    "require": {
+        "phpoffice/phpword": "^1.1",
+        "dompdf/dompdf": "^2.0"
+    },
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Codex",
+            "email": "codex@example.com"
+        }
+    ]
+}
